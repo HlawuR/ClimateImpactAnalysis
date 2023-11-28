@@ -85,6 +85,60 @@ Conduct EDA to understand the relationships between weather features, energy gen
 
 Create new features if necessary and select relevant features for modeling.
 
+### Model Building:
+
+Develop and train a regression model to predict the daily energy shortfall using the selected features.
+
+### Model Evaluation:
+
+Evaluate the model's performance using appropriate metrics such as mean squared error, mean absolute error, and R-squared.
+
+### Model Deployment:
+
+Deploy the trained model for making predictions on new data.
+
+### Documentation:
+
+Create documentation that explains the data, methodology, and model for future reference.
+
+### Project Timeline
+
+The project will be conducted in phases, with each phase having specific tasks and deadlines. The timeline for the project will be determined by the project manager in consultation with the team members.
+
+### Data Volume
+
+The dataset contains nearly 15819 rows, and its size may impact data processing and model training times. Appropriate hardware and software resources will be allocated to handle this volume effectively.
+
+### Collaboration
+
+The project team will collaborate closely to ensure the successful completion of each phase. Communication channels will be established to facilitate teamwork and knowledge sharing.
+
+### Conclusion
+
+
+## Contact Information
+
+For any inquiries or updates related to this project, please feel free to reach out to the following team members:
+
+- **Project Manager:** Edidiong Udofia
+  - Email: [edidiongudofia5050@gmail.com](mailto:edidiongudofia5050@gmail.com)
+
+- **Team Leader:** Hlawulekani Rikhotso
+  - Email: [hlawulekanirikhotso@gmail.com](mailto:hlawulekanirikhotso@gmail.com)
+
+- **Team Members:**
+  1. Boitemogelo Tagane
+     - Email: [btagane@gmail.com](mailto:btagane@gmail.com)
+
+  2. Lesego Maponyane
+     - Email: [lesegomoraladi@gmail.com](mailto:lesegomoraladi@gmail.com)
+
+  3. Fransisca Onyinyechukwu Iloh
+     - Email: [ilohfransisca2014@gmail.com](mailto:ilohfransisca2014@gmail.com)
+
+  4. Pricilla Vhafuniwap
+     - Email: [vhafuniwap@gmail.com](mailto:vhafuniwap@gmail.com)
+
 
 
 
