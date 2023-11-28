@@ -37,6 +37,55 @@ In order to achieve the objectives, our company will do the following:
 - Determine what features were most important in the model’s prediction decision, and
 - Explain the inner working of the model to a non-technical audience.
 
+## Data Description and Sources
+
+The collection of this data was funded by a Canada Foundation for Innovation JELF Grant to Chris Bauch, University of Waterloo. The dataset aggregates tweets pertaining to climate change collected between Apr 27, 2015 and Feb 21, 2018. In total, 43,943 tweets were collected. Each tweet is labelled as one of 4 classes, which are described below.
+
+####  Class Description
+- **[2] News**: the tweet links to factual news about climate change
+
+- **[1] Pro**: the tweet supports the belief of man-made climate change
+
+- **[0] Neutral**: the tweet neither supports nor refutes the belief of man-made climate change
+
+- **[-1] Anti**: the tweet does not believe in man-made climate change Variable definitions
+
+####  Features
+- **sentiment**: Which class a tweet belongs in (refer to Class Description above)
+
+- **message**: Tweet body
+
+- **tweetid**: Twitter unique id
+
+####  Files provided
+- `train.csv` - This data will be used to train our model.
+
+- `test.csv` - This data will be used to test our model.
+
+## Project Team
+
+- Team Leader: Hlawulekani Rikhotso
+- Project Manager: Edidiong Udofia
+- Team Members:
+- Data Scientist: Boitemogelo Tagane
+- Data Scientist: Lesego Maponyane
+- Data Scientist: Pricilla vhafuniwa
+- Data scientist: Fransisca Iloh
+
+## Project Deliverables
+### Data Preprocessing:
+
+Clean and preprocess the dataset, handling missing values, and encoding categorical variables as necessary.
+
+### Exploratory Data Analysis (EDA):
+
+Conduct EDA to understand the relationships between weather features, energy generation, and the energy shortfall.
+
+### Feature Engineering:
+
+Create new features if necessary and select relevant features for modeling.
+
+
 
 
 
