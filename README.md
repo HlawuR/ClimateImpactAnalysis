@@ -80,7 +80,7 @@ Clean and preprocess the dataset, handling missing values, and encoding categori
 
 ### Exploratory Data Analysis (EDA):
 
-Conduct EDA to understand the relationships between weather features, energy generation, and the energy shortfall.
+Conduct EDA to understand the relationships between Sentiments, Message, and the Tweet ID.
 
 ### Feature Engineering:
 
@@ -88,15 +88,15 @@ Create new features if necessary and select relevant features for modeling.
 
 ### Model Building:
 
-Develop and train a regression model to predict the daily energy shortfall using the selected features.
+Develop and train a classification model to predict people's perception of climate change using the selected features.
 
 ### Model Evaluation:
 
-Evaluate the model's performance using appropriate metrics such as mean squared error, mean absolute error, and R-squared.
+Evaluate the model's performance using appropriate metrics such as F1 score, accuracy, and precision.
 
 ### Model Deployment:
 
-Deploy the trained model for making predictions on new data.
+Deploy the trained models for making predictions on new data.
 
 ### Documentation:
 
@@ -104,7 +104,7 @@ Create documentation that explains the data, methodology, and model for future r
 
 ### Project Timeline
 
-The project will be conducted in phases, with each phase having specific tasks and deadlines. The timeline for the project will be determined by the project manager in consultation with the team members.
+The project will be conducted in phases, with each phase having specific tasks and deadlines. The timeline for the project will be determined by the project manager in consultation with team members.
 
 ### Data Volume
 
@@ -115,7 +115,7 @@ The dataset contains nearly 15819 rows, and its size may impact data processing 
 The project team will collaborate closely to ensure the successful completion of each phase. Communication channels will be established to facilitate teamwork and knowledge sharing.
 
 ### Conclusion
-
+The successful modeling of people's perception of climate change will add to their market research efforts in gauging how their product/service may be received. Climate change is a complex problem, but it is one that we must solve. By working with you and Friends of the Earth International, we can reduce greenhouse gas emissions, adapt to the impacts of climate change, and build a sustainable future for all.
 
 ## Contact Information
 
